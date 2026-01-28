@@ -50,9 +50,10 @@ Akses GenieACS
 
 Web UI: http://localhost:3000
 Username: admin
-Password: admin (menu virtualparameter dll di sembunyikan)
-API: http://localhost:7557
-CWMP (TR-069): http://your-server-ip:7547
+Password: admin (menu virtualparameter dll di sembunyikan)<br>
+API: http://localhost:7557 <br>
+CWMP (TR-069): http://your-server-ip:7547<br>
+
 ======= CARA RESTORE ========<br>
 ```
 cd
