@@ -46,9 +46,13 @@ Yang akan diupdate, yaitu:
 Jika anda memiliki config/script custom buatan anda sendiri,<br> 
 silahkan backup terlebih dahulu, kemudian setelah update lakukan config manual lagi sesuai config custom anda.<br>
 
-Device, user, permisions, tidak akan terpengaruh<br>
-Bagi yang confignya error, akan ter-repair dengan script ini<br>
-Anda masih bisa kembali ke konfigurasi sebelumnya dengan memilih restore<br>
+Akses GenieACS
+
+Web UI: http://localhost:3000
+Username: admin
+Password: admin (menu virtualparameter dll di sembunyikan)
+API: http://localhost:7557
+CWMP (TR-069): http://your-server-ip:7547
 ======= CARA RESTORE ========<br>
 ```
 cd
